@@ -95,10 +95,10 @@
 
 
 
-<h2>Kasutaja hobid</h2>
+<h2>Kasutaja huvialad</h2>
 <form method="POST">
 	
-	<label>Hobi/huviala nimi</label><br>
+	<label>Huviala nimi</label><br>
 	<select name="userInterest" type="text">
         <?php
             

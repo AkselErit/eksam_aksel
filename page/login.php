@@ -140,8 +140,8 @@
 							
 				<br><br>
 				
-				<input class="btn btn-success btn-sm hidden-xs" type="submit" value="Logi sisse 1">
-				<input class="btn btn-success btn-sm btn-block visible-xs-block" type="submit" value="Logi sisse 2">
+				<input class="btn btn-success btn-sm hidden-xs" type="submit" value="Logi sisse">
+				<input class="btn btn-success btn-sm btn-block visible-xs-block" type="submit" value="Logi sisse 1">
 			
 			</form>
 		</div>
